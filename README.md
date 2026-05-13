@@ -129,7 +129,11 @@ void loop()
 
 <img width="401" height="763" alt="image" src="https://github.com/user-attachments/assets/c2d9b1a9-c6b8-4f6e-80a8-b62ea955c779" />
 
-<img width="425" height="945" alt="image" src="https://github.com/user-attachments/assets/73a39c26-cc41-4759-a74c-0be90cf40084" />
+<img width="364" height="441" alt="image" src="https://github.com/user-attachments/assets/956664a7-0237-4911-ba09-e9b23fada9a9" />
 
-<img width="425" height="945" alt="image" src="https://github.com/user-attachments/assets/ffd0d24b-5f9c-48d3-a5c1-42bb8c9d04f2" />
+<img width="358" height="398" alt="image" src="https://github.com/user-attachments/assets/29c85bcf-041b-4471-ae84-dd40c8bfa652" />
+
+<img width="357" height="457" alt="image" src="https://github.com/user-attachments/assets/4c87c04f-e38c-4237-8cac-edb1e835585e" />
+
+
 
